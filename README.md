@@ -1,14 +1,14 @@
-1. Создать файл .env и вставить API-ключ:
+<h2>Создать файл .env и вставить API-ключ</h2>
 
-- Создать файл .env или переименовать файл .env.example в .env:
-- Открыть .env и вставить ваш API-ключ:
+- Создать файл .env или переименовать файл .env.example в .env
+- Открыть .env и вставить ваш API-ключ
 
-  VITE*OPENWEATHER_API_KEY=ВАШ_API*КЛЮЧ
+      VITE_OPENWEATHER_API_KEY=ВАШ_API_КЛЮЧ
 
-2. Установить зависимости:
+<h2>Установить зависимости</h2>
 
-  npm install
+    npm install
 
-3. Запустить проект:
+<h2>Запустить проект</h2>
 
-  npm run dev
+    npm run dev
